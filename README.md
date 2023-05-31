@@ -1,1 +1,30 @@
 # AZ-500-Notes
+
+# Secure Azure solutions with Azure Active Directory
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
