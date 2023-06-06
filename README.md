@@ -1,6 +1,6 @@
 # AZ-500-Notes
 
-## Explore Azure Active Directory features
+# Explore Azure Active Directory features
 
 > Azure Active Directory (Azure AD) is a cloud-based identity and access management service. This service helps employees access external resources, such as Microsoft 365, the Azure portal, and thousands of other software-as-a-service (SaaS) applications. Azure Active Directory also helps them access internal resources like apps on your corporate intranet network, along with any cloud apps developed for your organization.
 
@@ -56,6 +56,71 @@ Resource forest deployment - Azure VMs are configured as domain controllers, and
 Extend on-premises domain to Azure - An Azure virtual network connects to an on-premises network using a VPN / ExpressRoute connection. Azure VMs connect to this Azure virtual network, which lets them domain-join to the on-premises AD DS environment.
 
 An alternative is to create Azure VMs and promote them as replica domain controllers from the on-premises AD DS domain. These domain controllers replicate over a VPN / ExpressRoute connection to the on-premises AD DS environment. The on-premises AD DS domain is effectively extended into Azure.
+
+
+## Investigate roles in Azure AD
+
+
+Azure AD-specific roles: These roles grant permissions to manage resources within Azure AD only. For example, User Administrator, Application Administrator, and Groups Administrator all grant permissions to manage resources that live in Azure AD.
+
+Service-specific roles: For major Microsoft 365 services (non-Azure AD), we have built service-specific roles that grant permissions to manage all features within the service. For example, Exchange Administrator, Intune Administrator, SharePoint Administrator, and Teams Administrator roles can manage features with their respective services. Exchange Administrator can manage mailboxes, Intune Administrator can manage device policies, SharePoint Administrator can manage site collections, Teams Administrator can manage call qualities, and so on.
+
+Cross-service roles: There are some roles that span services. We have two global roles - Global Administrator and Global Reader. All Microsoft 365 services honor these two roles. Also, there are some security-related roles like Security Administrator and Security Reader that grant access across multiple security services within Microsoft 365. For example, using Security Administrator roles in Azure AD, you can manage Microsoft 365 Defender portal, Microsoft Defender Advanced Threat Protection, and Microsoft Defender for Cloud Apps. Similarly, in the Compliance Administrator role, you can manage Compliance-related settings in the Compliance portal, Exchange, and so on.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/6d502c49-fb84-4a32-a107-681755f34ea0)
+
+Son muchos roles( que ya conoces)
+
+> https://learn.microsoft.com/en-us/training/modules/azure-active-directory/6-roles-azure-active-directory
+
+## Características y ventajas de Azure AD DS
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/da98408d-5d9b-432f-bd5c-5f8064f09472)
+
+***Add new users or delete existing users from your Azure Active Directory (Azure AD) tenant. To add or delete users, you must be a User Administrator or Global Administrator.***
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/179f36ee-bcb3-4717-b91f-ed695812af03)
+
+
+> You can create a dynamic group for either devices or users but not for both. You can't create a device group based on the device owners' attributes. Device membership rules can only reference device attributions.
+
+## Configure Azure AD administrative units
+
+An administrative unit is an Azure AD resource that can be a container for other Azure AD resources. An administrative unit can contain only users and groups. Administrative units restrict permissions in a role to any portion of your organization that you define. You could, for example, use administrative units to delegate the Helpdesk Administrator role to regional support specialists, so they can manage users only in the region that they support.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/1a1fc90e-26d1-4796-b8c5-8756425b6e71)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/00a2cd45-1798-4b82-9fd4-7427bad75f77)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/e095718a-4b2f-4250-9b98-cddf6e559eba)
+
+# Implement Hybrid identity
+
+## Deploy Azure AD connect
+
+Azure AD Connect will integrate your on-premises directories with Azure Active Directory. This allows you to provide a common identity for your users for Microsoft 365, Azure, and SaaS applications integrated with Azure AD.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/b379b92e-c651-44a2-b24b-923a4c508e12)
+
+
+> Using AD Connect Health works by installing an agent on each of your on-premises sync servers.
+
+> If you decide to use Federation with Active Directory Federation Services (AD FS), you can optionally set up password hash synchronization as a backup in case your AD FS infrastructure fails.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/23325ab6-289d-474c-9198-780ff548e228)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/3c5c9319-ed63-47b5-820d-604f82a4f00d)
+
+
+# Deploy Azure AD identity protection
+
+Azure Active Directory Identity Protection includes three default policies that administrators can choose to enable. These policies include limited customization but are applicable to most organizations. All the policies allow for excluding users such as your emergency access or break-glass administrator accounts.+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/3be937c8-bd68-43b6-803d-c64ab69b6af9)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/059855da-a675-4ce3-8cd1-1f399d438dfa)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/ee27f486-725e-47be-ac17-f15c464a0c5b)
 
 
 
