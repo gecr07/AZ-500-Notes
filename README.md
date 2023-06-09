@@ -122,6 +122,53 @@ Azure Active Directory Identity Protection includes three default policies that 
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/ee27f486-725e-47be-ac17-f15c464a0c5b)
 
+## Configure risk event detections
+
+To protect your users, you can configure risk-based policies in Azure Active Directory (Azure AD) that automatically respond to risky behaviors. Azure AD Identity Protection policies can automatically block a sign-in attempt or require additional action, such as requiring a password change or prompt for Azure AD Multi-Factor Authentication. These policies work with existing Azure AD Conditional Access policies as an extra layer of protection for your organization. Users may never trigger a risky behavior in one of these policies, but your organization is protected if an attempt to compromise your security is made.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/757f0eb6-9a47-4b71-8766-26fd15b94429)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/4963037d-5be1-4ec2-9ae2-742372c21859)
+
+## Client apps
+
+Conditional Access policies by default apply to browser-based applications and applications that utilize modern authentication protocols. In addition to these applications, administrators can choose to include Exchange ActiveSync clients and other clients that utilize legacy protocols.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/e21ed104-db15-4947-80a2-17d9fccf662e)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/08d6341e-7d9c-402f-ad91-b2626069fd9c)
+
+
+## Deploy multifactor authentication in Azure
+
+Azure Active Directory Multi-Factor Authentication helps safeguard access to data and applications while maintaining simplicity for users. It provides additional security by requiring a second form of authentication and delivers strong authentication through a range of easy to use authentication methods.
+
+For organizations that need to be compliant with industry standards, such as the Payment Card Industry (PCI) Data Security Standard (DSS) version 3.2, MFA is a must have capability to authenticate users. Beyond being compliant with industry standards, enforcing MFA to authenticate users can also help organizations to mitigate credential theft attacks.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/250a7578-fc8a-44e7-9c08-9e02a773ad6b)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c1283056-5e71-4011-b773-3268b47d2ae3)
+
+> The Trusted IPs bypass works only from inside of the company intranet. If you select the All Federated Users option and a user signs in from outside the company intranet, the user must authenticate by using two-step verification. The process is the same even if the user presents an AD FS claim.
+
+
+## Enable multifactor authentication
+
+To enable MFA, go to the User Properties in Azure Active Directory, and then the Multi-Factor Authentication option. From there, you can select the users that you want to modify and enable for MFA. You can also bulk enable groups of users with PowerShell. User's states can be Enabled, Enforced, or Disabled.
+
+> Remember, you can only enable MFA for organizational accounts stored in Azure Active Directory. These are also called work or school accounts.
+
+## Configure conditional access conditions
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/ac81df8b-aa4b-49d3-9a15-66d5b87ffd2d)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/6b08318c-c702-4066-9b3c-c59a4e919400)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/092a5dc0-db9e-430b-9ff2-85b83d285ce6)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c149067e-42fb-4c7c-ab24-3ce4bd3bcdbf)
+
+
 
 
 
