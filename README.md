@@ -173,6 +173,19 @@ To enable MFA, go to the User Properties in Azure Active Directory, and then the
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/7426d5b5-fed6-46aa-809a-ade74827727f)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/0e1ef9b1-4478-40b4-bbee-950228e28d7c)
+
+## RISK levels
+
+Investiga los risk level bien de la pagina de microsoft.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/25c6d3e1-a0b2-442e-a18a-0fedb4612e27)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/63ce7f77-0d68-4141-95f5-caf8dc22cf44)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c9525ca7-3389-4210-8840-c94b746091ae)
+
+
 
 
 
