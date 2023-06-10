@@ -186,6 +186,7 @@ Investiga los risk level bien de la pagina de microsoft.
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c9525ca7-3389-4210-8840-c94b746091ae)
 
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/99c32582-ad42-4b06-8219-385ed42af47f)
 
 
 
