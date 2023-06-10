@@ -188,9 +188,15 @@ Investiga los risk level bien de la pagina de microsoft.
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/99c32582-ad42-4b06-8219-385ed42af47f)
 
+## AKS 
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/afef7919-05a2-45ce-afb7-dec707532a16)
 
 
+The container network interface (CNI) plug-in is responsible for providing network connectivity to containers running on a host. Answer is correct.
 
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/28fb7393-a734-4119-8111-a85f10363537)
 
 
 
