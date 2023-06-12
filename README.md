@@ -232,9 +232,31 @@ The container network interface (CNI) plug-in is responsible for providing netwo
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/a0a64958-f301-4992-8745-dd9656c4bc59)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/699b4c26-28c5-43f0-8c0e-492fff705911)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/2dddb413-f13b-496f-956b-f69cb7121e74)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/5f53c4cc-0f70-407d-894f-abda6c726865)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/70fdba1e-bc7e-49c1-8e68-ebf8f268e718)
+
+# Explicacion de Tenant que esta arriba de subscription
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/4429910b-c2f1-4f3b-abe5-bc1da87cc0d4)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/b5b5e14f-eea2-4cb1-bd96-6f12e03ac6b3)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/b35bad9b-a825-443d-9761-69ca6375eeea)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/be06f282-cab7-4619-b063-a4ccd89028cf)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c207c50f-55ec-4685-8d66-d2d7d32f81b2)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/6d5d7d06-63a1-4f34-9b56-4946576c6743)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f57d8a13-1c99-4f97-9a6c-c0fe175a4a91)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/0b7e8c54-7e7d-4fd3-a29d-190d7f552680)
 
 
 
