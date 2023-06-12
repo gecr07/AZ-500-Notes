@@ -258,6 +258,16 @@ The container network interface (CNI) plug-in is responsible for providing netwo
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/0b7e8c54-7e7d-4fd3-a29d-190d7f552680)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/e1d8125e-deca-4118-867a-03f61489cd5e)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/58c8b50f-a529-4f8d-b0f9-3a39c093c677)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/97f5427e-2f88-4e7c-8b16-6881cb913828)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/449e3e45-4e8d-4114-b511-abd82c3ecf0b)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f1498380-e18c-4f39-82d0-03e75c7e616c)
+
 
 
 
