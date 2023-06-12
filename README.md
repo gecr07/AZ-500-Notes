@@ -200,6 +200,23 @@ The container network interface (CNI) plug-in is responsible for providing netwo
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c3f8b14f-e86e-4765-9712-0e5ef9cc1840)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/b8c169a7-4442-4fa7-828a-c8273d167eb8)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/ec351677-37cb-42d9-8e21-d86eed6dfe06)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f07eb0e0-4c5f-4d7f-a87b-fee983c4d3b8)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/0b53ed63-95a4-454c-ab87-bc40e885aeab)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/a52c0488-484e-430f-8b00-f5ac19bc777b)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/eb2011bb-e74e-4fa3-b172-a49ecbb274a4)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f4264f95-8b28-4fe7-b1f2-3c35506530f2)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/abcfd7a0-fe32-4117-8b8f-f65d3a643d70)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/fa04675d-3c8c-4ef1-89bf-14be8d00ffc5)
 
 
 
