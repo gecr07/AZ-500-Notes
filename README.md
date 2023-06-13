@@ -307,6 +307,16 @@ You can use a stored access policy to change the start time, expiry time, or per
 
 
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/089495d1-f135-4afb-b5b2-48c8359a15ac)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/a1ffe7da-aace-478c-8315-38d13eca14ae)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/d430f82a-cc66-479a-8e7f-7d98f7452f89)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/d346da96-36c6-4269-9cc0-cc6395411bdf)
+
+
+
 
 
 
