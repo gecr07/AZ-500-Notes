@@ -269,6 +269,11 @@ The container network interface (CNI) plug-in is responsible for providing netwo
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f1498380-e18c-4f39-82d0-03e75c7e616c)
 
 
+## Azure HDInsight documentation
+
+Azure HDInsight is a managed Apache Hadoop service that lets you run Apache Spark, Apache Hive, Apache Kafka, Apache HBase, and more in the cloud.
+
+
 
 
 
