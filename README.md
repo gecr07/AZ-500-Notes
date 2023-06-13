@@ -283,7 +283,19 @@ Azure HDInsight is a managed Apache Hadoop service that lets you run Apache Spar
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/9bcf9274-2cd4-4505-a827-1e4bcbe255a8)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/183b8ebd-b35a-4825-bec5-0c000d67ca26)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/679fa51f-1698-4c37-a07f-e22eafa940cd)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c9223d22-619c-4bbd-9ce9-5ef7d5c8cd3b)
+
+##  over service-level shared access signatures (SASs)
+
+A stored access policy provides an additional level of control over service-level shared access signatures (SASs) on the server side. Establishing a stored access policy serves to group shared access signatures and to provide additional restrictions for signatures that are bound by the policy.
+
+You can use a stored access policy to change the start time, expiry time, or permissions for a signature. You can also use a stored access policy to revoke a signature after it has been issued.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/3e059a70-b318-4dd5-8c1c-ed461fbfe14f)
 
 
 
