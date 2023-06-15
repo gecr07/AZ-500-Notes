@@ -315,6 +315,32 @@ You can use a stored access policy to change the start time, expiry time, or per
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/d346da96-36c6-4269-9cc0-cc6395411bdf)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/db7e699b-a18d-4113-9f20-7b46bb132f18)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/dc007f6f-439c-4b50-9eaa-3510a647cc5d)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/ada0eccf-18ca-4769-9ce1-fa0dc5f3e959)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/8f3df2d2-77d6-4161-ba2e-49fbb6034007)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f4278d97-d614-4afd-ac38-8b14f57e3a51)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/0531001c-052a-4610-a31b-6cc165ffca9d)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/9e04bb37-5480-4b62-a382-76274df10ab2)
+
+
+## cloning resources
+
+
+rsharma007 Highly Voted 1 year, 10 months ago
+Built-in AD roles can't be cloned, but built-in subscription roles can be. Custom roles of either type can be cloned.
+
+
+
 
 
 
