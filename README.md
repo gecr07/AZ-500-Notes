@@ -339,11 +339,27 @@ You can use a stored access policy to change the start time, expiry time, or per
 rsharma007 Highly Voted 1 year, 10 months ago
 Built-in AD roles can't be cloned, but built-in subscription roles can be. Custom roles of either type can be cloned.
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/650c5438-e82b-428b-81a1-ed0c119b9fb6)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/769d2375-662a-42be-9afe-172aed0d946a)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/da04f3c4-1b5e-4ef5-b8c8-cdd6ac865aeb)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/45369e76-53dd-4563-833f-068fc35d5b00)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/703bcaf2-3aeb-4844-ac71-48c8f26a0f4c)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/7aa0524f-bf44-4c74-b50e-6ff6763dfe79)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/fc3da028-c91d-4e0b-b7e1-46092177fc4b)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f872f895-7f98-4630-a14e-d783e8203f8b)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/09fe99e8-c5f7-4bfc-8d4f-6c848e1a7a6d)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/4c3056a9-2351-4e44-af04-4549f0609030)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/b74e607f-e2e6-4943-9a15-5dd9dde15d39)
 
 
 
