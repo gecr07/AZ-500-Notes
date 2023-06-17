@@ -361,5 +361,11 @@ Built-in AD roles can't be cloned, but built-in subscription roles can be. Custo
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/b74e607f-e2e6-4943-9a15-5dd9dde15d39)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/1f3aa2a4-043e-4877-8360-0dba798dc648)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/b79560c0-d17b-47b2-b0af-449cdb3231af)
+
+
+
 
 
