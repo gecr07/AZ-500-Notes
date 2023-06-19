@@ -370,5 +370,49 @@ Built-in AD roles can't be cloned, but built-in subscription roles can be. Custo
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/81e47af1-663b-477e-ba11-269e91d7a589)
 
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/7830e36e-8010-48b2-a33a-7519d69d98fb)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/93c08358-26b0-4f3a-9661-71d596b74710)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/62975c6f-9f27-42aa-afa9-59ac97802732)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/fa2ac237-92b1-4707-b9fa-cb1bc8ee2b83)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/53362101-71da-4da4-8037-e50341ac9ccf)
+
+
+## There are three types of service principal(entidades principales de servicio):
+- Application - The type of service principal is the local representation, or application instance, of a global application object in a single tenant or directory. 
+- Managed identity - This type of service principal is used to represent a managed identity. Managed identities eliminate the need for developers to manage credentials. Managed identities provide an identity for applications to use when connecting to resources that support Azure AD authentication. 
+- Legacy - This type of service principal represents a legacy app, which is an app created before app registrations were introduced or an app created through legacy experiences.
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/62db80cf-d7e8-40aa-87c8-767c106b1bcf)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/794f8714-ed22-41a4-8408-f5381189f3b4)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/16482cb3-6415-4d9e-9587-a4f9b865997f)
+
+
+## UPN 
+
+¡Claro! El User Principal Name (UPN) es una forma de identificar de manera única a un usuario en un dominio de Active Directory. Generalmente, sigue el formato de "nombredeusuario@nombrededominiodelusuario". Aquí tienes un ejemplo de un User Principal Name:
+
+-Nombre de usuario: juan.perez
+
+-Nombre de dominio: ejemplo.com
+
+Entonces, el User Principal Name (UPN) de ese usuario sería: juan.perez@ejemplo.com
+
+De esta manera, el UPN proporciona una forma legible y fácil de recordar de identificar a un usuario en un dominio de Active Directory.
+
+
+
 
 
