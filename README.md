@@ -12,7 +12,13 @@
 Although the three Active Directory-based identity solutions share a common name and technology, they're designed to provide services that meet different customer demands. At a high level, these identity solutions and feature sets are:
 
 
+## No actions en un JSON de permisos
 
+Esto lo que hace es sacar acciones cuando se usa un *.
+
+## Deny 
+
+Esto es ya bloquear todas las acciones que se definan en deny. Ademas al parecer deny tiene prioridad.
 ## Self-managed Active Directory Domain Services
 
 
@@ -412,7 +418,22 @@ Entonces, el User Principal Name (UPN) de ese usuario sería: juan.perez@ejemplo
 
 De esta manera, el UPN proporciona una forma legible y fácil de recordar de identificar a un usuario en un dominio de Active Directory.
 
+> "Deny assignments block users from performing specific actions even if a role assignment grants them access. At this time, the only way you can add your own deny assignments is by using Azure Blueprints."
 
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/9d9827f9-0e9d-4feb-85a8-334c082c9372)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c47ee68e-fa19-4de0-bd1a-ec0eaa54e99a)
+
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/2e7f75ef-1520-4d88-b1ab-f55eae0fc357)
+
+
+## App1 has service principal.
+https://learn.microsoft.com/en-us/azure/active-directory/develop/howto-create-service-principal-portal
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/6d4e520d-2d56-4287-918d-1b4f93fff9ea)
 
 
