@@ -41,7 +41,7 @@ AD DS is a central component in many organizations with an on-premises IT enviro
 ## Azure Active Directory Domain Services (Azure AD DS) 
 
 Provides managed domain services with a subset of fully compatible traditional AD DS features such as domain join, group policy, LDAP, and Kerberos / New Technology LAN Manager (NTLM) authentication.
-Azure AD DS integrates with Azure AD, which can synchronize with an on-premises AD DS environment. This ability extends central identity use cases to traditional web applications that run in Azure as part of a lift-and-shift strategy.
+Azure AD DS integrates with Azure AD, which can synchronize with an on-premises AD DS environment. This ability extends central identity use cases to traditional web applications that run in Azure as part of a lift-and-shift strategy. 
 
 ### Azure AD DS and self-managed AD DS
 
