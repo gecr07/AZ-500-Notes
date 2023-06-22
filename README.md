@@ -437,3 +437,76 @@ https://learn.microsoft.com/en-us/azure/active-directory/develop/howto-create-se
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/6d4e520d-2d56-4287-918d-1b4f93fff9ea)
 
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/47e0bbe0-f60d-4270-aa12-ecefa90a5b4d)
+
+## Azure Container Registry Content Trust
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/a9063bd9-6c6e-4168-83f4-23c6d8a5895f)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/bf512b10-73cc-4e82-9b07-c9923c086a06)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/a10f1bb5-74c8-434f-9c99-1a2271d7dcd3)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/23d450ac-69f5-4dbc-b242-0018b756d23e)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/16228a69-469e-4632-965c-846b8928c60a)
+
+## Azure Resource Manager
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/495954bb-62b2-493c-a098-9e825403b49c)
+
+To implement infrastructure as code for your Azure solutions, use Azure Resource Manager templates (ARM templates). The template is a JavaScript Object Notation (JSON) file that defines the infrastructure and configuration for your project. The template uses declarative syntax, which lets you state what you intend to deploy without having to write the sequence of programming commands to create it. In the template, you specify the resources to deploy and the properties for those resources.
+
+## Virtual Network service endpoints
+
+Virtual Network (VNet) service endpoint provides secure and direct connectivity to Azure services over an optimized route over the Azure backbone network. Endpoints allow you to secure your critical Azure service resources to only your virtual networks. Service Endpoints enables private IP addresses in the VNet to reach the endpoint of an Azure service without needing a public IP address on the VNet.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/0a09d79a-dfca-4e54-993c-8064de1ef245)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/699dcc81-e2e1-4278-a9d7-ce671fbf55c1)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/fb7b2ac6-4047-43a8-9153-718ac7bc38b3)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/e42e352d-252b-4230-a358-ec9afc447dd6)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/cbb88153-2c89-48ad-9183-7e957c544233)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/532130e7-0dc0-40ed-9c5d-f8ec4280c68e)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/99301477-a8f7-49f2-bdb2-06c06d496446)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/012e60cc-5b59-4281-a15d-a8ac0b60b06f)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/6401246b-faf5-4ddb-807f-818784ef3443)
+
+## Locking resources 
+
+Locking Mode applies to the blueprint assignment and it has three options: Don't Lock, Read Only, or Do Not Delete. The locking mode is configured during artifact deployment during a blueprint assignment. A different locking mode can be set by updating the blueprint assignment. Locking modes, however, can't be changed outside of Azure Blueprints.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/fe20265e-de9c-4227-86db-e7e3939f096b)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/5f4ea82f-9f3f-4cc0-b67d-bebffc3f7f4e)
+
+## Container env variables 
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f6d2d221-0ff6-485f-9a0e-f8858d46f5ca)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/3ad13bc1-b198-4886-ba7c-b81c4f37f0ac)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/26a355a9-9cf8-4ba4-9d0a-4b1b52d1ae1d)
+
+> The service will detect where the temporary exceptions need to be created and act accordingly. The only requirement is that there IS an NSG either on the vmNIC or the subnet to which the required exceptions can be added as required. If there is no NSG then a warning is surfaced via Azure Security Center.
+>
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/11293c06-5cf6-4fb3-9c0a-aa70c19e4453)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/339ee4f3-9e82-4c45-a4eb-2ed5de0d9c3f)
+
+> Microsoft Defender for container registries has been deprecated. Now Microsoft Defender for Containers can check windows images too.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/07367586-ea2b-4f21-bad4-75c2fe4c5f00)
+
+
+
