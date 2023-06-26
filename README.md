@@ -541,6 +541,20 @@ Azure App Service enables you to build and host web apps, mobile back ends, and 
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/8148d831-ab99-4872-9cd3-4dc359f9e240)
 
+## Network Security Groups (NSG) vs. Application Security Groups (ASG)
+
+> On the other side an application security group can be used within a network security group and its inbound and outbound security rules as source or destination. The application security group can be associated with a virtual machine and therefore you can group virtual machines and define network security policies based on those groups.
+
+> https://blog.matrixpost.net/network-security-groups-nsg-vs-application-security-groups-asg/
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/340a3324-1dfa-4eae-87a6-8d3d36b271db)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/b8449dec-a9a3-4ed7-af87-c0a35af77ac9)
+
+
+
 
 
 
