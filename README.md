@@ -508,5 +508,42 @@ Locking Mode applies to the blueprint assignment and it has three options: Don't
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/07367586-ea2b-4f21-bad4-75c2fe4c5f00)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/1e184210-d0ac-49ce-8141-fbd8886fe0b7)
+
+## Adaptive application controls
+
+are an intelligent and automated solution for defining allowlists of known-safe applications for your machines.
+
+Often, organizations have collections of machines that routinely run the same processes. Microsoft Defender for Cloud uses machine learning to analyze the applications running on your machines and create a list of the known-safe software. Allowlists are based on your specific Azure workloads, and you can further customize the recommendations using the following instructions.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/ba87ff16-b7c3-42a1-9e3f-838372aed288)
+
+## App Service documentation
+
+Azure App Service enables you to build and host web apps, mobile back ends, and RESTful APIs in the programming language of your choice without managing infrastructure. It offers auto-scaling and high availability, supports both Windows and Linux, and enables automated deployments from GitHub, Azure DevOps, or any Git repo. Learn how to use Azure App Service with our quickstarts, tutorials, and samples.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/7b7b9fbc-6def-49f8-8365-4d5841663d4c)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/440bfe71-3d51-400a-a820-36bda5fdbcb3)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/4b0366af-013b-48a1-8143-9cbce7147dc9)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/ae4042b4-574c-46ff-9b6d-7173d5442c3c)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/1eb2858c-f624-4608-aff4-07fcada2392c)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c39519d8-d50a-4aef-9183-827d5be35a08)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/8148d831-ab99-4872-9cd3-4dc359f9e240)
+
+
+
+
+
 
 
