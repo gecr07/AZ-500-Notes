@@ -554,7 +554,24 @@ Azure App Service enables you to build and host web apps, mobile back ends, and 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/b8449dec-a9a3-4ed7-af87-c0a35af77ac9)
 
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/5d2eef87-4cd9-400e-8a4a-ef7b76613c44)
 
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/16921f94-9eaa-45e3-a698-b64316de1983)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/69b21afb-a00a-488d-b7c0-c9d98fc1155f)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/93e276e2-7896-4223-b804-08033aa012d2)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c95f4356-4a60-4b72-b316-bee470ad39a5)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/29485b73-bb59-4de3-99ac-45025434d4fe)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/87dae6ec-8445-42b5-afaf-1ef385c84dda)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/e107e936-9b1a-4149-8619-347ac3d5bc20)
 
 
 
