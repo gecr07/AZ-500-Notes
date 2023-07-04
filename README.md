@@ -591,6 +591,7 @@ Azure App Service enables you to build and host web apps, mobile back ends, and 
 
 An assignment is used to assign the initiative to a specific scope, such as a management group, and enforce the policies defined in the initiative to all the resources within that scope.
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/51b74a75-1b8b-4c0e-bfd1-ed8719ee62c3)
 
 
 
