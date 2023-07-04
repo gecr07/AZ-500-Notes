@@ -574,6 +574,24 @@ Azure App Service enables you to build and host web apps, mobile back ends, and 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/e107e936-9b1a-4149-8619-347ac3d5bc20)
 
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/3a4328cd-bf0c-4654-8596-686332f7c04e)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f00b396f-0353-43c7-b416-3b6948de879c)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/552dc655-337b-4b7e-a550-31eb4baf4fc2)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/cb3cdd28-572d-4c42-ba38-0de8225eec62)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/6cc9929d-abea-4d5d-953b-851e0a215939)
+
+## Que es una  initiative and an assignment ( diferente de  policy initiative and assignments)
+
+> Creating an initiative and an assignment scoped to a management group is a valid solution for deploying policy definitions as a group to multiple Azure subscriptions. An initiative is a container for a set of policy definitions in Azure Policy. By creating an initiative, you can manage multiple policy definitions as a single unit and apply them to a specific scope, such as a management group, which can include multiple subscriptions. 
+
+An assignment is used to assign the initiative to a specific scope, such as a management group, and enforce the policies defined in the initiative to all the resources within that scope.
+
+
 
 
 
