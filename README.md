@@ -631,5 +631,43 @@ Azure Data Factory es el servicio ETL en la nube de Azure para la integración y
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/91fdc370-5f71-4421-b39a-b5f5fa55659b)
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/886aa905-b247-4879-abb3-e8920472ef93)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/4b613fc2-0fe7-44d5-acf0-da53f2da3e59)
+
+> Under Azure Security Center (AKA. Windows Defender for Cloud) - Workflow automation - you will need to create a logic app to trigger (security alerts/recommendations/regulatory compliance) to users via email/azure resource manager roles etc.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/c39ec781-2ad8-417d-b3f5-b651ad297a86)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/8e789ae7-71da-4559-b3b7-ad6f6c625a2e)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/374b5765-64d1-4b2f-8a67-19e0cc08d5ed)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/845160bb-e0a6-4af6-afac-042bc81f4a67)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/84d0074d-eff6-4ed8-9eb2-bb75905edd36)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/1b248396-bca9-4d34-92e5-bd00556d5d9b)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/aa5508f6-52f5-47f2-82c5-10277afd0f14)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/d2323c6c-63b5-4704-8e93-0006a11a2ae4)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/145815a9-9f5a-4800-8372-e4c927bfb44e)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/57e5c6cb-6959-483f-ae1e-bf1a7f7a8bea)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/216b0139-e134-436a-be6a-042fda92e4c0)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/3e1bccea-fc13-4d6a-b17b-31f54f0b5eb8)
+
+
+
+
+
+
 
 
