@@ -594,6 +594,17 @@ An assignment is used to assign the initiative to a specific scope, such as a ma
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/51b74a75-1b8b-4c0e-bfd1-ed8719ee62c3)
 
 
+> Metric Alerts offer near-real time monitoring capability and Metric Alerts for Logs forks data from log source to ensure the same.
+Metric Alerts are stateful - only notifying once when alert is fired and once when alert is resolved; as opposed to Log alerts, which are stateless and keep firing at every interval if the alert condition is met.
+Metric Alerts for Log provide multiple dimensions, allowing filtering to specific values like Computers, OS Type, etc. simpler; without the need for penning query in analytics.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/e21e0a94-a01c-42f6-92fd-173276998ca9)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/89d89dd4-6e15-4534-9602-0bbac0c7377a)
+
+> Microsoft Defender for Cloud helps streamline the process for meeting regulatory compliance requirements, using the regulatory compliance dashboard.
+
+
 
 
 
