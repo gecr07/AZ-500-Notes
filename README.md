@@ -604,7 +604,32 @@ Metric Alerts for Log provide multiple dimensions, allowing filtering to specifi
 
 > Microsoft Defender for Cloud helps streamline the process for meeting regulatory compliance requirements, using the regulatory compliance dashboard.
 
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/7e834463-1bdc-472a-bbf5-de38c21f96b3)
 
+## ¿Qué es Azure Data Factory?
+
+Azure Data Factory es el servicio ETL en la nube de Azure para la integración y transformación de datos sin servidor de escalabilidad horizontal. Ofrece una interfaz de usuario sin código que favorece la creación intuitiva y una supervisión y administración desde un único panel.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/907e0916-f797-400a-8fe9-bed6ac3087cb)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/5e5aef0c-a61b-4cc2-87ea-ad1213f04252)
+
+
+## Azure sentilen Query
+
+> Queries are written in Kusto Query Language (KQL).
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f468826d-0170-4dad-b3e5-360ab9511fa0)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/08575116-6cd6-43b4-b0d6-f0f4190e59ff)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/2974ec03-ff39-486c-abcf-64d609ac226a)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/a652e12e-4b25-4e33-ab0c-50e490a3fe88)
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/91fdc370-5f71-4421-b39a-b5f5fa55659b)
 
 
 
