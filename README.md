@@ -201,6 +201,10 @@ Investiga los risk level bien de la pagina de microsoft.
 
 The container network interface (CNI) plug-in is responsible for providing network connectivity to containers running on a host. Answer is correct.
 
+## Azure managment identities
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/a221f3e3-a567-483f-a920-a3a896e5c618)
+
 
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/28fb7393-a734-4119-8111-a85f10363537)
 
@@ -665,9 +669,59 @@ Azure Data Factory es el servicio ETL en la nube de Azure para la integración y
 ![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/3e1bccea-fc13-4d6a-b17b-31f54f0b5eb8)
 
 
+## Security groups vs Microsoft 365 gropups
+
+>A security group can have users, devices, groups, and service principals as its members, but a Microsoft 365 group can only have users as its members. These groups are also recommended if you are managing access to resources via Intune
 
 
 
+## Cuidado con esta trampa
 
+True, as per MS docs: "If a user is assigned a role that excludes an action in NotActions, and is assigned a second role that grants access to the same action, the user is allowed to perform that action. NotActions is not a deny rule – it is simply a convenient way to create a set of allowed actions when specific actions need to be excluded."
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/f7f6ed0c-f1dc-476e-baf9-98594cd7259a)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/fcedbe2c-d294-4dce-8e0c-bd0488e639c7)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/3bd2f71e-c5cc-4e1a-9cd3-827581e5356e)
+
+
+## Storage account 
+
+An Azure storage account contains all of your Azure Storage data objects: blobs, files, queues, and tables. The storage account provides a unique namespace for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS. Data in your storage account is durable and highly available, secure, and massively scalable.
+
+## Storage Azure explicacion
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/855c9130-28d6-4262-be2a-e7c9f104c0e1)
+
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/6b54c50a-0bd9-463a-bfc4-9d5edda6f923)
+
+Para ver el detalle de todos los tipos de datos ve a:
+
+> https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction
+
+> To view or read an account's access keys, the user must either be a Service Administrator, or must be assigned an Azure role that includes the Microsoft.Storage/storageAccounts/listkeys/action. Some Azure built-in roles that include this action are the Owner, Contributor, and Storage Account Key Operator Service Role roles.
+
+
+## Azure Logic Apps ( podrias desarrollar apis)
+
+Azure Logic Apps es una plataforma basada en la nube para crear y ejecutar flujos de trabajo de aplicaciones lógicas automatizados que integren sus aplicaciones, datos, servicios y sistemas. Esta plataforma permite desarrollar rápidamente soluciones de integración altamente escalables para escenarios intraempresariales y de negocio a negocio (B2B). Para crear una aplicación lógica, use el tipo de recurso Logic Apps (consumo) o el tipo de recurso Logic Apps (estándar) . El tipo de recurso de consumo se ejecuta en Azure Logic Apps multiinquilino o en el entorno del servicio de integración, mientras que el tipo de recurso estándar se ejecuta en el entorno de Azure Logic Apps de un solo inquilino.
+
+![image](https://github.com/gecr07/AZ-500-Notes/assets/63270579/35d3cec3-0156-4b5b-8df0-6203feeb78ed)
+
+> Azure Arc permite ejecutar servicios de datos de Azure en el entorno local, en el perímetro y en nubes públicas con Kubernetes y la infraestructura de su elección. Actualmente están disponibles los siguientes servicios de datos habilitados para Azure Arc: Instancia administrada de SQL
+
+## Microsoft Defender External Attack Surface Management (Defender EASM)
+
+offers a series of four dashboards designed to help users quickly surface valuable insights derived from their Approved inventory. These dashboards help organizations prioritize the vulnerabilities, risks and compliance issues that pose the greatest threat to their Attack Surface, making it easy to quickly mitigate key issues.
+
+# Casos de estudio poner especial atencion en esto
+
+## Como funcionan lo NSG
+
+>https://learn.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works
 
 
