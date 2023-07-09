@@ -724,4 +724,10 @@ offers a series of four dashboards designed to help users quickly surface valuab
 
 >https://learn.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works
 
+## Private endpoint vs Service endpoint
+
+
+Para el private enpoint as de cuenta que si tiene un a subnet y un vm y creas un service en point se trairan como si los hubieras agregado a la subnet y se les agrega una tarjeta de red.
+
+En el service end point se habilita para todo el servicio por ejemplo el storage y aunuqe se conecta por el microsoft back bone usa las ip publcas de los storages
 
